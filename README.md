@@ -1,1 +1,1 @@
-# weatherapp
+using OpenWeather API to get the weather for a given location
